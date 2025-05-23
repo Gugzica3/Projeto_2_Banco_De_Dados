@@ -96,7 +96,7 @@ Um projeto acadêmico para modelar e analisar partidas de **Valorant**, registra
 ---
 
 ## 📊 Consultas SQL  
-Todas as queries obrigatórias e extras estão em [`queries.sql`](./queries.sql).  
+Todas as queries obrigatórias e extras estão em [`Queries.sql`](./Queries.sql).  
 
 ---
 
